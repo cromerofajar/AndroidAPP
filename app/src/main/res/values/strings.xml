@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">primerAPP</string>
+    <string name="Atras">Atras</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="IconoAPPEnPantalla">IconoAPP</string>
+    <string name="NombreImagen">Calendario</string>
+    <string name="SelectorDeFondo">Tema</string>
+    <string name="rojo">Rojo</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="textocolor">textocolor</string>
+</resources>
